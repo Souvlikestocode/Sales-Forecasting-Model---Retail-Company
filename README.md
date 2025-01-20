@@ -1,5 +1,5 @@
 📚 Project Overview
-This project focuses on creating an efficient inventory management solution for a South American retail company, ABC. Leveraging machine learning, the goal was to predict sales trends across 33 product categories in 54 stores using historical data. A tailored XGBoost model was developed, achieving robust predictions and enabling better inventory decisions to minimize wastage and stockouts.
+# This project focuses on creating an efficient inventory management solution for a South American retail company, ABC. Leveraging machine learning, the goal was to predict sales trends across 33 product categories in 54 stores using historical data. A tailored XGBoost model was developed, achieving robust predictions and enabling better inventory decisions to minimize wastage and stockouts.
 
 🚀 Key Features
 Exploratory Data Analysis: Comprehensive analysis of sales trends by store, product, and day of the week to identify patterns and anomalies.
